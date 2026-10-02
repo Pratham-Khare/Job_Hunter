@@ -1,0 +1,305 @@
+{
+  "enabled": true,
+  "companies": [
+    {
+      "company": "TCS",
+      "career_url": "https://www.tcs.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "Infosys",
+      "career_url": "https://www.infosys.com/careers.html",
+      "enabled": true
+    },
+    {
+      "company": "Wipro",
+      "career_url": "https://careers.wipro.com/",
+      "enabled": true
+    },
+    {
+      "company": "HCLTech",
+      "career_url": "https://www.hcltech.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "Tech Mahindra",
+      "career_url": "https://careers.techmahindra.com/",
+      "enabled": true
+    },
+    {
+      "company": "Cognizant",
+      "career_url": "https://careers.cognizant.com/india-en/",
+      "enabled": true
+    },
+    {
+      "company": "Accenture",
+      "career_url": "https://www.accenture.com/in-en/careers",
+      "enabled": true
+    },
+    {
+      "company": "Capgemini",
+      "career_url": "https://www.capgemini.com/in-en/careers/",
+      "enabled": true
+    },
+    {
+      "company": "LTIMindtree",
+      "career_url": "https://www.ltm.com/india-careers",
+      "enabled": true
+    },
+    {
+      "company": "Deloitte India",
+      "career_url": "https://www.deloitte.com/in/en/careers.html",
+      "enabled": true
+    },
+    {
+      "company": "EY India",
+      "career_url": "https://www.ey.com/en_in/careers",
+      "enabled": true
+    },
+    {
+      "company": "KPMG India",
+      "career_url": "https://kpmg.com/in/en/careers.html",
+      "enabled": true
+    },
+    {
+      "company": "PwC India",
+      "career_url": "https://www.pwc.in/careers.html",
+      "enabled": true
+    },
+    {
+      "company": "IBM",
+      "career_url": "https://www.ibm.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "Oracle",
+      "career_url": "https://www.oracle.com/in/careers/",
+      "enabled": true
+    },
+    {
+      "company": "Microsoft",
+      "career_url": "https://careers.microsoft.com/",
+      "enabled": true
+    },
+    {
+      "company": "Amazon",
+      "career_url": "https://www.amazon.jobs/en/locations/india",
+      "enabled": true
+    },
+    {
+      "company": "Google",
+      "career_url": "https://www.google.com/about/careers/applications/locations/india/",
+      "enabled": true
+    },
+    {
+      "company": "Adobe",
+      "career_url": "https://careers.adobe.com/",
+      "enabled": true
+    },
+    {
+      "company": "Salesforce",
+      "career_url": "https://www.salesforce.com/company/careers/",
+      "enabled": true
+    },
+    {
+      "company": "SAP",
+      "career_url": "https://www.sap.com/india/about/careers.html",
+      "enabled": true
+    },
+    {
+      "company": "Cisco",
+      "career_url": "https://jobs.cisco.com/",
+      "enabled": true
+    },
+    {
+      "company": "Intel",
+      "career_url": "https://jobs.intel.com/",
+      "enabled": true
+    },
+    {
+      "company": "NVIDIA",
+      "career_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "enabled": true
+    },
+    {
+      "company": "Qualcomm",
+      "career_url": "https://www.qualcomm.com/company/careers",
+      "enabled": true
+    },
+    {
+      "company": "Walmart Global Tech",
+      "career_url": "https://careers.walmart.com/us/en/teams/technology",
+      "enabled": true
+    },
+    {
+      "company": "Flipkart",
+      "career_url": "https://www.flipkartcareers.com/",
+      "enabled": true
+    },
+    {
+      "company": "Myntra",
+      "career_url": "https://careers.myntra.com/",
+      "enabled": true
+    },
+    {
+      "company": "Razorpay",
+      "career_url": "https://razorpay.com/jobs/",
+      "enabled": true
+    },
+    {
+      "company": "Swiggy",
+      "career_url": "https://careers.swiggy.com/",
+      "enabled": true
+    },
+    {
+      "company": "Zomato",
+      "career_url": "https://www.zomato.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "PhonePe",
+      "career_url": "https://www.phonepe.com/careers/",
+      "enabled": true
+    },
+    {
+      "company": "Paytm",
+      "career_url": "https://paytm.com/careers/",
+      "enabled": true
+    },
+    {
+      "company": "Freshworks",
+      "career_url": "https://www.freshworks.com/company/careers/",
+      "enabled": true
+    },
+    {
+      "company": "Zoho",
+      "career_url": "https://www.zoho.com/careers/",
+      "enabled": true
+    },
+    {
+      "company": "BrowserStack",
+      "career_url": "https://www.browserstack.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "Juspay",
+      "career_url": "https://juspay.in/careers",
+      "enabled": true
+    },
+    {
+      "company": "Meesho",
+      "career_url": "https://www.meesho.io/jobs",
+      "enabled": true
+    },
+    {
+      "company": "Groww",
+      "career_url": "https://groww.in/careers",
+      "enabled": true
+    },
+    {
+      "company": "Dream11",
+      "career_url": "https://www.dreamsports.group/careers/",
+      "enabled": true
+    },
+    {
+      "company": "CRED",
+      "career_url": "https://careers.cred.club/",
+      "enabled": true
+    },
+    {
+      "company": "InMobi",
+      "career_url": "https://www.inmobi.com/company/careers",
+      "enabled": true
+    },
+    {
+      "company": "Ola",
+      "career_url": "https://www.olacabs.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "Nagarro",
+      "career_url": "https://www.nagarro.com/en/careers",
+      "enabled": true
+    },
+    {
+      "company": "Thoughtworks",
+      "career_url": "https://www.thoughtworks.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "EPAM",
+      "career_url": "https://www.epam.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "Publicis Sapient",
+      "career_url": "https://www.publicissapient.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "Persistent Systems",
+      "career_url": "https://www.persistent.com/careers/",
+      "enabled": true
+    },
+    {
+      "company": "Coforge",
+      "career_url": "https://www.coforge.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "Mphasis",
+      "career_url": "https://careers.mphasis.com/",
+      "enabled": true
+    },
+    {
+      "company": "Hexaware",
+      "career_url": "https://hexaware.com/careers/",
+      "enabled": true
+    },
+    {
+      "company": "UST",
+      "career_url": "https://www.ust.com/en/careers",
+      "enabled": true
+    },
+    {
+      "company": "Genpact",
+      "career_url": "https://www.genpact.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "Virtusa",
+      "career_url": "https://www.virtusa.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "Mindtree",
+      "career_url": "https://www.ltimindtree.com/careers/",
+      "enabled": true
+    },
+    {
+      "company": "Sutherland",
+      "career_url": "https://www.sutherlandglobal.com/careers",
+      "enabled": true
+    },
+    {
+      "company": "DXC Technology",
+      "career_url": "https://dxc.com/us/en/careers",
+      "enabled": true
+    },
+    {
+      "company": "Dell Technologies",
+      "career_url": "https://jobs.dell.com/",
+      "enabled": true
+    },
+    {
+      "company": "HP",
+      "career_url": "https://jobs.hp.com/",
+      "enabled": true
+    },
+    {
+      "company": "SAP Labs India",
+      "career_url": "https://www.sap.com/india/about/careers.html",
+      "enabled": true
+    }
+  ]
+}

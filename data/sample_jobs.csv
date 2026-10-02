@@ -1,0 +1,5 @@
+company,title,location,work_mode,experience,education,skills,description,salary,posted_date,deadline,source,source_url,official_url
+Example Tech,Software Engineer I,Gurgaon,Hybrid,0-2 years,MCA/BTech,"JavaScript;React;Node.js;MongoDB","Build web applications using JavaScript React Node.js and MongoDB.",,2026-10-02,,Demo,https://example.com/job1,https://example.com/job1
+Example Data,Junior Data Analyst,Noida,Hybrid,0-1 years,"MCA/BTech/BSc","SQL;Excel;Python","Analyze business data and build reports using SQL and Excel.",,2026-10-01,,Demo,https://example.com/job2,https://example.com/job2
+Example AI,AI Application Developer,Bangalore,Remote,0-2 years,MCA/BTech,"JavaScript;Node.js;LLM;Gemini","Develop AI-powered web applications and integrate LLM APIs.",,2026-09-30,,Demo,https://example.com/job3,https://example.com/job3
+Example Senior,Senior Software Engineer,Hyderabad,Hybrid,3-5 years,BTech,"Java;Spring;AWS","Develop enterprise backend systems.",,2026-10-02,,Demo,https://example.com/job4,https://example.com/job4
